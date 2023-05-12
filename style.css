@@ -2,6 +2,11 @@
     background-color: #1F2937;
 }
 
+.Drbeans{
+    width: 20;
+    height:50px;
+
+}
 
 
 .header {
@@ -91,6 +96,7 @@ a, h1, p {
 .info{
     max-width: 50%;
     padding: 10px;
+    display: inline-block;
 }
 
 .container {
@@ -99,20 +105,176 @@ a, h1, p {
     gap: 52px;
     padding: 10px;
   }
-  .beans1, img {
+   .beans1 {
     
-    width: 30%;
-    height: 60%;
-
-    
-    position: sticky;
-
-  margin-left: 600px;
-  margin-top: -450px;
-  flex: none;
+    size-adjust: 50%;
 
   }
 
+.canobeans{
+    
+  height: 400px;
+  width: 250px;
+  align-self: center;
+}
+
   /*Part 2*/
+
+  .body2{
+    background-color: white;
+    color:black;
+    
+    
+  }
+
+  .header2{
+    align-self: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: bold;
+  }
+
+  .container2 {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+
+    display: flex;
+    flex-direction: row;
+
+    flex-wrap:wrap;
+    margin-right: 0;
+
+    align-items: center;
+
+    /*margin-left: auto; 
+  margin-right: 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 10px;*/
+  }
+  
+  .info2 {
+    max-width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    
+    
+  
+  }
+
+  .cartoonbean{
+    width: 100px;
+    height: 100px;
+  }
+
+
+
+  text {
+    margin-bottom: 16px;
+  }  
+  
+
+/*Part 3*/
+.part3{
+    
+}
+
+.body3{
+    background-color: #E5E7EB;
+    align-self: center;
+    padding: 80px;
+    
+}
+
+.quotestart{
+    font-size: 36px;
+    font-style: italic bold;
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    align-self: center;
+    text-align: center;
+    
+    
+    
+
+    
+
+}
+
+.endquote{
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+}
+
+/*PART 4*/
+.part4{
+    background-color: white;
+    padding: 70px;
+   
+}
+
+.CTA{
+    background-color: #3882f6;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    
+
+
+}
+
+.CTABox{
+    display: inline-block;
+    text-align: center;
+}
+
+.CTAbold{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+
+}
+
+.CTAparagraph{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.signup4 {
+    Border-radius:8px;
+    background-color: #3882f6;
+    color:white;
+    padding:10px;
+    font-size:17px;
+    border: 2px solid  #ffffff;
+    align-content: center;
+    
+    
+  
+
+}
+
+/*PART 5*/
+
+.footer{
+    background-color: #1F2937;
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+
+}
 
 
