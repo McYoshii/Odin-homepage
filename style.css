@@ -178,15 +178,11 @@ a, h1, p {
   
 
 /*Part 3*/
-.part3{
-    
-}
 
 .body3{
     background-color: #E5E7EB;
     align-self: center;
     padding: 80px;
-    
 }
 
 .quotestart{
@@ -197,12 +193,6 @@ a, h1, p {
     font-family: Arial, Helvetica, sans-serif;
     align-self: center;
     text-align: center;
-    
-    
-    
-
-    
-
 }
 
 .endquote{
@@ -214,7 +204,7 @@ a, h1, p {
 /*PART 4*/
 .part4{
     background-color: white;
-    padding: 70px;
+    padding: 60px;
    
 }
 
@@ -232,7 +222,7 @@ a, h1, p {
 }
 
 .CTABox{
-    display: inline-block;
+    display:content;
     text-align: center;
 }
 
@@ -249,7 +239,6 @@ a, h1, p {
     color:white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-
 }
 
 .signup4 {
@@ -259,11 +248,8 @@ a, h1, p {
     padding:10px;
     font-size:17px;
     border: 2px solid  #ffffff;
-    align-content: center;
+    width: 200px;
     
-    
-  
-
 }
 
 /*PART 5*/
